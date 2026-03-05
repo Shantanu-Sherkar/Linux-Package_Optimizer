@@ -2,6 +2,10 @@
 
 A lightweight desktop utility for analyzing installed packages, finding orphans, and cleaning up disk space — **no pip installs required**.
 
+## Screenshot
+
+![Linux Package Optimizer](screenshots/screenshot.png)
+
 ## Requirements
 
 - Python 3.11+
