@@ -26,6 +26,7 @@ du -sm /var/cache/pacman/pkg/   # cache size
 ```
 
 ## Supported Package Managers
+( Currrently tested on pacman only)
 
 | Manager | Distros |
 |---|---|
