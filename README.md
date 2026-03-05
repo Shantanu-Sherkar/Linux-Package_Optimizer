@@ -4,7 +4,7 @@ A lightweight desktop utility for analyzing installed packages, finding orphans,
 
 ## Screenshot
 
-![Linux Package Optimizer](screenshots/screenshot.png)
+![Linux Package Optimizer](screenshots/1.png)
 
 ## Requirements
 
